@@ -11,4 +11,6 @@ pip install pyautogui
 pip install opencv-python
 
 
-Then download the python code for the autoclicker(autoclicker.py)
+Then download the python code for the autoclicker(main.py)
+
+You can change the variables as you like.
